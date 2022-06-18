@@ -4,7 +4,7 @@
 
 ## 💻 Sobre o projeto
 
-   O projeto WhatsLab foi desenvolvido com o intuito de realizar um clone do Whatsapp, mas não é uma aplicação que envia e recebe mensagens externas, e sim que crie algo que simplesmente mostre novas mensagens, com as funções básicas utilizando o conceito de Minimun Viable Product. Projeto feito com: React.JS e Styled-Components. Trata-se de um aplicativo semelhante ao WhatsApp, Telegram, Messenger.
+   Inspirado nas funcionalidades do Spotify, o projeto consiste em uma página que permite o usuário criar uma playlist, adcionar músicas a ela e depois acessar essa playlist com as músicas numa outra página. Esse projeto consome a API que a Labenu desenvolveu e não a API oficial do Spotify. Esse projeto foi e está sendo importante no meu aprendizado e costume de react hooks e ainda estou trabalhando nele.
 
 ### Sumário
 
@@ -25,10 +25,11 @@ Projeto Labefy publicado na plataforma surge:
 
 ### Requisitos do projeto
 
-- [X] A página possui dois inputs controlados: um para o nome do usuário e um para a mensagem.
-- [X] Existe um botão de enviar e um espaço para as mensagens enviadas aparecerem.
-- [x] Ao pressionar o botão de enviar, a mensagem enviada aparece na tela .
-- [X] Ao pressionar o botão de enviar, o campo de mensagem é limpo.
+- [X] Criar ou excluir playlists.
+- [X] Adicionar ou excluir músicas na playlist.
+- [x] Visualizar todas playlists existentes.
+- [X] Ver detalhes de cada música.
+- [X] Ouvir músicas.
 <br/><br/>
 
 ### Status do projeto
